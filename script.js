@@ -121,13 +121,4 @@ submitBtn.addEventListener("click", () => {
         }
     }
 
-
-
-
-
-
-
-
-
-
 });
